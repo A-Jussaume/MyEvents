@@ -1,0 +1,25 @@
+.message{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.event-card-details{
+    background: linear-gradient(white, #2d34367a);
+    padding: 15px;
+    width: 90%;
+    margin: auto;
+    border: solid 1px rgba(128, 128, 128, 0.11);
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px grey;
+}
+
+.card-content{
+    float: "left";
+}
+
+.event-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px 15px 15px 15px;
+}

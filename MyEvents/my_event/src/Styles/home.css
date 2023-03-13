@@ -1,0 +1,37 @@
+.event-card{
+    background-color: white;
+    background: linear-gradient(white, #2d34367a);
+    padding: 15px;
+    height: 200px;
+    max-width: 1000px;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px grey;
+    margin-bottom: 10px;
+    margin-left: 375px;
+}
+
+.card-content{
+    float: "left";
+}
+
+.event-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#button{
+    text-decoration: none;
+    color: #adadad;
+    background-color: #1d1d1d;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 80%;
+    margin-top: 50px;
+}
+
+#button:hover{
+    font-size: 17px;
+    box-shadow: 5px 5px 5px grey;
+}
